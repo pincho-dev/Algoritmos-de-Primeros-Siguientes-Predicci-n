@@ -2,7 +2,9 @@
 
 Cálculo analítico e implementación en Python de los conjuntos PRIMEROS,
 SIGUIENTES y PREDICCIÓN para las dos gramáticas del taller.
-
+Santiago Ortegon
+Juan Pablo Orjuela
+Julian Beltran Rodriguez
 ## Gramáticas
 
 **Gramática 1**
